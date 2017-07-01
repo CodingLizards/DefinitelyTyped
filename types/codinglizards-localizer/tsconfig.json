@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "lib": [
+            "es5"
+        ],
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "strictNullChecks": false
+    },
+    "files": [
+        "codinglizards-localizer.d.ts",
+    ]
+}
